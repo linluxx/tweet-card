@@ -5,6 +5,7 @@ const Wrapper = styled.div`
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  background-color: #5cd3a8;
 `;
 
 export { Wrapper };
