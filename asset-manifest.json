@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/tweet-card/static/css/main.ba943fbe.css",
+    "main.js": "/tweet-card/static/js/main.87f6e1d4.js",
+    "static/media/question.png": "/tweet-card/static/media/question.032662a2a907475127d7.png",
+    "index.html": "/tweet-card/index.html",
+    "main.ba943fbe.css.map": "/tweet-card/static/css/main.ba943fbe.css.map",
+    "main.87f6e1d4.js.map": "/tweet-card/static/js/main.87f6e1d4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba943fbe.css",
+    "static/js/main.87f6e1d4.js"
+  ]
+}
