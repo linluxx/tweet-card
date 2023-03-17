@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "user": "Hansel",
+    "tweets": 777,
+    "followers": 100500,
+    "avatar": "Hansel.png"
+  },
+  {
+    "id": 2,
+    "user": "Emily",
+    "tweets": 1050,
+    "followers": 205754,
+    "avatar": "Emily.png"
+  },
+  {
+    "id": 3,
+    "user": "Benjamin",
+    "tweets": 250,
+    "followers": 7568,
+    "avatar": "Benjamin.png"
+  },
+  {
+    "id": 4,
+    "user": "Olivia",
+    "tweets": 568,
+    "followers": 11200,
+    "avatar": "Olivia.png"
+  },
+  {
+    "id": 5,
+    "user": "William",
+    "tweets": 890,
+    "followers": 150983,
+    "avatar": "William.png"
+  },
+  {
+    "id": 6,
+    "user": "Charlotte",
+    "tweets": 379,
+    "followers": 18365,
+    "avatar": "Charlotte.png"
+  },
+  {
+    "id": 7,
+    "user": "Jacob",
+    "tweets": 2579,
+    "followers": 1567893,
+    "avatar": "Jacob.png"
+  },
+  {
+    "id": 8,
+    "user": "Ethan",
+    "tweets": 437,
+    "followers": 6589,
+    "avatar": "Ethan.png"
+  }
+]

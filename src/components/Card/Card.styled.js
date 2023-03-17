@@ -16,9 +16,9 @@ const Container = styled.div`
   );
   box-shadow: -2.5777px 6.87386px 20.6216px rgba(0, 0, 0, 0.23);
   border-radius: 20px;
+  margin-bottom: 20px;
 `;
 
-const Line = styled.div;
 const Logo = styled.img`
   position: absolute;
   top: 20px;
@@ -99,7 +99,16 @@ const Button = styled.button`
   width: 196px;
   height: 50px;
   padding: 14px 28px;
-  background: #ebd8ff;
+  background: ${(p) => {
+    switch (p.isFollow) {
+      case true:
+        return "#5CD3A8";
+      case false:
+        return `${p.theme.expensesTextColor}`;
+      default:
+        return `${p.theme.tableHeadTextColor}`;
+    }
+  }};
   box-shadow: 0px 3.43693px 3.43693px rgba(0, 0, 0, 0.25);
   border-radius: 10.3108px;
   gap: 6px;
